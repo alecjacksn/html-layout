@@ -1,0 +1,67 @@
+
+d
+
+
+
+.dis {
+    display: flex;
+    display: table-column;
+}
+
+ header div{
+    margin-top: -10px;
+    margin-left: -4px; 
+
+}
+
+.gray {
+    width: 100vw;
+    height: 15vh;
+    background: #d3d2d3;
+}
+
+.small {
+    margin-left: 10px;
+    margin-top: -95px;
+    width: 80px;
+    height: 80px;
+    background: #4185de;
+    
+}
+.par{
+    padding: 50px;
+    text-align: left;
+    font-size: 27px;
+}
+
+.white {
+    height: 36vh;
+
+}
+
+.par {
+    margin-top: 15px;
+}
+.blue {
+    width: 100vw;
+    height: 15vh;
+    background: #4185de;
+}
+
+.tur {
+    width: 100vw;
+    height: 15vh;
+    background: #47dfba;
+}
+
+.green {
+    width: 100vw;
+    height: 15vh;
+    background: #afe57b;
+}
+
+.yellow {
+    width: 100vw;
+    height: 15vh;
+    background: #f7e31b;
+}
