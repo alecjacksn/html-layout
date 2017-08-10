@@ -1,0 +1,40 @@
+
+
+
+.box {
+    width: 33vw;
+    height: 100vh;
+
+}
+
+.dis {
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.blue {
+    background: rgb(78,146,223);
+}
+.green {
+    background: green;
+}
+
+.yellow{
+    background: yellow;
+    height: 70vh;
+}
+
+.yellow, .img {
+   float: right;
+
+}
+
+.img {
+    width: 33vw;
+    height: 30vh;
+    background: red;
+    
+}
+
